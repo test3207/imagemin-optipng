@@ -1,6 +1,6 @@
 {
 	"name": "imagemin-optipng-plus",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Imagemin plugin for OptiPNG",
 	"license": "MIT",
 	"repository": "imagemin/imagemin-optipng",
@@ -25,7 +25,7 @@
 	"dependencies": {
 		"exec-buffer": "^3.0.0",
 		"is-png": "^2.0.0",
-		"optipng-bin-plus": "^0.0.1"
+		"optipng-bin-plus": "^0.0.2"
 	},
 	"devDependencies": {
 		"ava": "^2.4.0",
